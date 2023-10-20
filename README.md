@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba del modulo2 de PrepHenry
+Este repositorio es de prueba para practicar comandos de git.
